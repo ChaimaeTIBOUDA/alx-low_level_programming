@@ -3,7 +3,7 @@
 
 /**
  * positive_or_negative - print the num if neg or posi or 0
- * @n: the num cheked
+ * @i: the num cheked
  * Return: void
  */
 void positive_or_negative(int i)
